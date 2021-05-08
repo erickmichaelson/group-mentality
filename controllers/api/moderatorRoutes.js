@@ -4,6 +4,7 @@
 const router = require('express').Router();
 const { Moderator, ApprovedUserPost, UserPost } = require('../../models');
 const modAuth = require('../../utils/modAuth');
+console.log(modAuth);
 const { route } = require('./userRoutes');
 
 // route for '/api/moderator/'
