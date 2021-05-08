@@ -1,6 +1,6 @@
 # README-Group Mentaility
 
-![Dashboard Image](screenshot\homepage-screenshot.jpg)
+![Dashboard Image](https://github.com/erickmichaelson/group-mentality/blob/main/screenshot/homepage-screenshot.jpg)
 > [README Group Mentality]()
 ---
 ### Table of Contents
